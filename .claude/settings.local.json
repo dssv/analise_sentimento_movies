@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.imdb.com)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(CFLAGS=\"-O2\" pyenv install:*)"
+    ]
+  }
+}
